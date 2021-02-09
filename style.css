@@ -932,6 +932,9 @@ textarea:focus {
 }
 
 @media screen and (max-width: 496px) {
+    .nav{
+        padding: 1rem 1.7rem;
+    }
     .nav h2 {
         font-size: 1.5rem;
     }
